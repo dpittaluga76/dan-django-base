@@ -3,8 +3,6 @@
 
 This repo is an example how to set up Django project with Docker in Visual Studio Code.
 
-The tutorial for this project is on [post](https://www.samirhinojosa.com/django-docker-visual-studio-code/) in [samirhinojosa.com/blog](https://www.samirhinojosa.com/blog/).
-
 ## Files to consider
 - `.devcontainer/devcontainer.json`
 - `.devcontainer/docker-compose.yml`
